@@ -9,7 +9,7 @@
 4. [How to Use](#how-to-use)
 5. [Project Structure](#project-structure)
 6. [Technologies Used](#technologies-used)
-7. [Testing Credentials](#testing-credentials)
+
 
 ## Overview
 
@@ -117,16 +117,6 @@ Light Mode
 - Formik
 - Yup
 - SweetAlert
-
-## Testing Credentials
-
-To test the website, use the following credentials:
-
-- **Email:** don@gmail.com
-- **Password:** ewedon
-- Or
-- **Email:** morrison@gmail.com
-- **Password:** 83r5^_
 
 
 Feel free to explore VirtuCart, an ecommerce platform offering a delightful shopping experience!
